@@ -1,0 +1,21 @@
+{
+  "name": "Engine Yard AppCloud",
+  "description": "Access your Engine Yard AppCloud Account",
+  "version": "1",
+  "app": {
+    "urls": [
+      "https://cloud.engineyard.com/"
+    ],
+    "launch": {
+      "web_url": "https://cloud.engineyard.com"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
+
