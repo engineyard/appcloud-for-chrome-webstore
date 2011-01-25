@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "app": {
     "urls": [
-      "https://*.engineyard.com/",
-      "https://engineyard.com/"
+      "http://engineyard.com/"
     ],
     "launch": {
       "web_url": "https://cloud.engineyard.com"
