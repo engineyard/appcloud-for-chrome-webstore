@@ -1,10 +1,11 @@
 {
-  "name": "Engine Yard AppCloud",
-  "description": "Access your Engine Yard AppCloud Account",
-  "version": "1",
+  "name": "EY AppCloud",
+  "description": "Your Engine Yard AppCloud account at your fingertips.",
+  "version": "1.0.0",
   "app": {
     "urls": [
-      "https://cloud.engineyard.com/"
+      "https://*.engineyard.com/"
+      "https://engineyard.com/"
     ],
     "launch": {
       "web_url": "https://cloud.engineyard.com"
@@ -14,8 +15,10 @@
     "128": "icon_128.png"
   },
   "permissions": [
+    "geolocation",
     "unlimitedStorage",
     "notifications"
-  ]
+  ],
+  "update_url": "https://engineyard.com/appcloud-chrome-updates.xml"
 }
 
