@@ -1,7 +1,7 @@
 {
   "name": "EY AppCloud",
   "description": "Your Engine Yard AppCloud account at your fingertips.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "app": {
     "urls": [
       "https://*.engineyard.com/",
