@@ -9,5 +9,5 @@ end
 desc "Release to Chrome Web Store"
 task :release => :package do
   puts "Ok, so this is manual at the moment. Your browser is opening now..."
-  `open "https://chrome.google.com/webstore/developer/update?hl=en-US"`
+  `open "https://chrome.google.com/webstore/developer/edit/odbehbafobcdhgmfclophcpfndionpgi"`
 end
