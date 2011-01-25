@@ -6,7 +6,6 @@
     "urls": [
       "https://cloud.engineyard.com/",
       "http://engineyard.com/",
-	  "http://*.engineyard.com"
     ],
     "launch": {
       "web_url": "https://cloud.engineyard.com"
