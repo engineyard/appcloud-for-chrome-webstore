@@ -1,3 +1,3 @@
 module App
-  VERSION = '1.0.4.pre'
+  VERSION = '1.0.4'
 end
